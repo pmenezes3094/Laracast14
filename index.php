@@ -6,6 +6,10 @@
     <title>Demo</title>
 </head>
 <body>
-    <h1>hello world</h1>
+    <h1>
+       <?php 
+            hello world
+       ?> 
+    </h1>
 </body>
 </html>
